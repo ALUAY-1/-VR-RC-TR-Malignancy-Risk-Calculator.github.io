@@ -1,1 +1,1 @@
-# -VR-RC-TR-Malignancy-Risk-Calculator.github.io
+# Malignancy-Risk-Calculator.github.io
